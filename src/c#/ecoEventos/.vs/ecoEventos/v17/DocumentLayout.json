@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|c:\\users\\josel\\desktop\\proyectominsait\\src\\c#\\ecoeventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9831B06C-F1B8-47F7-A09A-2EFA9A95E08C}|ecoEventos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "Inscripcion.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Inscripcion.cs",
+              "RelativeToolTip": "Inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:31:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:30:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Organizador.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Organizador.cs",
+              "RelativeDocumentMoniker": "Organizador.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Organizador.cs",
+              "RelativeToolTip": "Organizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:30:38.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Categoria.cs",
+              "RelativeDocumentMoniker": "Categoria.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Categoria.cs",
+              "RelativeToolTip": "Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:30:12.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ubicacion.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Ubicacion.cs",
+              "RelativeDocumentMoniker": "Ubicacion.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Ubicacion.cs",
+              "RelativeToolTip": "Ubicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:29:58.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Evento.cs",
+              "RelativeDocumentMoniker": "Evento.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Evento.cs",
+              "RelativeToolTip": "Evento.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:27:13.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josel\\Desktop\\proyectoMinsait\\src\\c#\\ecoEventos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:26:37.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
