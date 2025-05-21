@@ -1,4 +1,4 @@
-# proyectoMinsait
+# ProyectoMinsait 💻
 Repositorio para el proyecto FCT de Minsait.
 Objetivos del proyecto:
   - Creación página web de EcoEventos.
