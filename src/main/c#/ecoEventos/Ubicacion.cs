@@ -23,8 +23,8 @@ namespace ecoEventos
         }
 
         // Propiedades
-        public int Id { get; set; }
-        public string Nombre { get; set; }
-        public string Direccion { get; set; }
+        public int Id { get { return ubicacion;} set { ubicacion = value; } }
+        public string Nombre { get { return nombre;} set {nombre = value;} }
+        public string Direccion { get { return direccion;} set { direccion = value;} }
     }
 }

@@ -10,6 +10,7 @@ namespace ecoEventos
     {
         // Atributos
         private static int contId = 1;
+        private static List<Evento> listaEventos = new List<Evento>();
         private int id;
         private string nombre;
         private DateTime fecha;
@@ -32,6 +33,7 @@ namespace ecoEventos
             this.organizador = organizador;
             this.cancelado = cancelado;
             this.inscripciones = new List<Inscripcion>();
+            this.listaEventos.Add(this);
         }
 
         // Propiedades
@@ -44,7 +46,7 @@ namespace ecoEventos
         public Organizador Organizador { get { return organizador; } set { organizador = value; } }
         public bool Cancelado { get { return cancelado; } set {cancelado = value; } }
         public List<Inscripcion> Inscripciones { get { return inscripciones; } }
-
+        public static List<Evento> ListaEventos { get { return listaEventos; } }
 
         // Métodos
 
@@ -80,5 +82,19 @@ namespace ecoEventos
                 Console.WriteLine("ID no válido.");
             }
         }
-    }
+
+        // Método para listar todos los eventos que hay
+        public static void ListarEventos()
+        {
+            if (listaEventos.Count == 0)
+            {
+                Console.WriteLine("No existe ningun evento.");
+                return;
+            }
+
+            foreach (Evento evento in listaEventos)
+            {
+                Console.WriteLine($"ID: {evento.Id}, Nombre: {evento.Nombre}, Fecha: {evento.Fecha}, Duración: {evento.Duracion}, Ubicación: {evento.Ubicacion.Tipo}, Categoría: {evento.Categoria.Nombre}, Organizador: {evento.Organizador.Nombre}, Cancelado: {evento.Cancelado}");
+            }
+        }
 }

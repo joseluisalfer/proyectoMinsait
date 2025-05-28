@@ -28,13 +28,12 @@ namespace ecoEventos
 
         // Propiedades
         public int Id { get { return id; } set { id = value; } }
-        public string Nombre { get; set; }
-        public string Email { get; set; }
-
+        public string Nombre { get { return nombre;} set {nombre = value;} }
+        public string Email { get { return email;} set { email = value;} }
         public string Contraseña { get { return contraseña; } set { contraseña = value; } }
         public List<Inscripcion> Inscripciones { get { return inscripciones; } }
 
-        // Métodosç
+        // Métodos
 
         // Método para añadir una inscripcion.
         public void AñadirInscripcion(Inscripcion inscripcion)
@@ -45,7 +44,7 @@ namespace ecoEventos
             }
         }
 
-        // Método para eliminar una inscripcion.
+        // Método para eliminar una inscripcion basandose en la id de la inscripción.
         public void EliminarInscripcionPorId(int id)
         {
             Inscripcion inscripcionAEliminar = null;
