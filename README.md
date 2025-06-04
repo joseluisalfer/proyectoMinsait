@@ -50,6 +50,6 @@ También incluye las capturas del diagrama de la BBDD y el PDF con los objetos d
 
 ## 🔧 Tecnologías utilizadas
 
-- HTML5, CSS3  
+- HTML5, CSS
 - MySQL  
 - C# (.NET Framework) 
